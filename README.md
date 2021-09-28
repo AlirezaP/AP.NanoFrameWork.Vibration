@@ -1,6 +1,8 @@
 # AP.NanoFrameWork.Vibration
 Package For HDX Vibration Sensor For Nanaframework!
 
+https://www.hackster.io/Alirezap/detect-vibrate-with-hdx-and-nanoframework-a3e529
+
 Sampel Code:
 
 ```
